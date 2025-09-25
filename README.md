@@ -45,10 +45,11 @@ A data analysis project using **PostgreSQL** to explore and analyze Netflix cont
 7. **Top genres by content count**
 8. **Content created by specific directors (e.g., Rajiv Chilaka)**
 9. **All TV shows with more than 5 seasons**
-10. **Documentary movies only**
-11. **Content with missing director info**
-12. **Actor-specific content (e.g., Salman Khan in last 15 years)**
-13. **Top 10 actors with most appearances in Indian content**
-14. **Categorizing content as 'Good' or 'Bad' based on description**
+10. **Count the Number of Content Items in Each Genre**
+11. **Documentary movies only**
+12. **Content with missing director info**
+13. **Actor-specific content (e.g., Salman Khan in last 15 years)**
+14. **Top 10 actors with most appearances in Indian content**
+15. **Categorizing content as 'Good' or 'Bad' based on description**
 
 ---
