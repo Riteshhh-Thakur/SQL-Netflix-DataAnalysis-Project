@@ -17,7 +17,7 @@ A data analysis project using **PostgreSQL** to explore and analyze Netflix cont
 
 - **Database**: PostgreSQL
 - **Editor**: PgAdmin
-- **Dataset**: Kaggle Netflix shows and movies data (CSV format)
+- **Dataset**: [https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download]()
 
 ---
 
